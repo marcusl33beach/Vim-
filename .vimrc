@@ -5,7 +5,6 @@ filetype indent on
 set autoread
 let mapleader = ","
 let g:mapleader = ","
-nmap <leader>w :w!<cr>
 set so=7
 set wildmenu
 set wildignore=*.o,*~,*.pyc
