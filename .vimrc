@@ -3,8 +3,6 @@ set history=700
 filetype plugin on
 filetype indent on
 set autoread
-let mapleader = ","
-let g:mapleader = ","
 set so=7
 set wildmenu
 set wildignore=*.o,*~,*.pyc
