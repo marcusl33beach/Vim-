@@ -8,7 +8,7 @@ set ruler
 set cmdheight=2
 set hid
 set backspace=eol,start,indent
-set whichwrap+=<,>,h,l
+#set whichwrap+=<,>,h,l
 set ignorecase
 set smartcase
 set hlsearch
@@ -21,8 +21,8 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set tm=500
-syntax enable
-colorscheme desert
+#syntax enable
+#colorscheme desert
 set background=dark
 set encoding=utf8
 set ffs=unix,dos,mac
