@@ -1,10 +1,8 @@
-set number
 set history=700
 set autoread
 set so=7
 set wildmenu
 set wildignore=*.o,*~,*.pyc
-set ruler
 set cmdheight=2
 set hid
 set backspace=eol,start,indent
@@ -20,8 +18,8 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set tm=500
-syntax enable 
-colorscheme desert
+syntax enable
+colorscheme murphy
 set background=dark
 set encoding=utf8
 set ffs=unix,dos,mac
@@ -29,5 +27,6 @@ set nobackup
 set nowb
 set noswapfile
 set smarttab
-set shiftwidth=4
-set tabstop=4
+set shiftwidth=2
+set tabstop=2
+set expandtab
