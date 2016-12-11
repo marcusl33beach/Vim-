@@ -19,7 +19,7 @@ set novisualbell
 set t_vb=
 set tm=500
 syntax enable
-colorscheme murphy
+colorscheme delek
 set background=dark
 set encoding=utf8
 set ffs=unix,dos,mac
